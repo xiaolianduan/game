@@ -67,7 +67,7 @@ function Game () {
 	this.falg=true;
 	this.stops=$(".continue")[0]
 	this.continues=$(".continue")[1]
-	this.falg2=true;
+	this.falg2=false;
 	this.ongame=$(".ongame")[0]
 	this.box=$(".box")[0]
 	this.alertright=$(".alertright")
